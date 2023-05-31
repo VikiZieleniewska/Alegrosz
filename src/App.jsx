@@ -1,6 +1,5 @@
 import { useEffect, useState } from "react";
 import Grid from "@mui/material/Unstable_Grid2";
-import ProductCard from "./components/ProductCard";
 import ProductSearch from "./components/ProductSearch.jsx";
 import ProductList from "./components/ProductList.jsx";
 
