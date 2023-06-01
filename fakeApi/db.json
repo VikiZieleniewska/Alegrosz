@@ -5,13 +5,13 @@
       "description": "Nowoczesny smartfon z najlepszymi funkcjami i wydajnością",
       "id": 2,
       "price": 2603.31,
-      "quantity": 1
+      "quantity": 0
     },
     {
       "name": "Laptop Dell XPS 18",
       "description": "Wyjątkowo wydajny laptop z ekranem 15 cali i najnowszym procesorem",
       "id": 3,
-      "price": "3999",
+      "price": 3999,
       "quantity": "11"
     },
     {
@@ -40,7 +40,7 @@
       "description": "Inteligentny zegarek z zaawansowanymi funkcjami zdrowotnymi",
       "id": 7,
       "price": 1499.99,
-      "quantity": 12
+      "quantity": 10
     },
     {
       "name": "Słuchawki douszne Apple AirPods Pro",
