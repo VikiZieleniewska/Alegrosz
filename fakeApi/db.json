@@ -1,25 +1,18 @@
 {
   "products": [
     {
-      "name": "Telewizor LED 55 cali",
-      "description": "Wysokiej jakości telewizor LED o rozmiarze 55 cali",
-      "id": 1,
-      "price": 1999.99,
-      "quantity": 5
-    },
-    {
-      "name": "Smartfon Samsung Galaxy S21",
+      "name": "Smartfon Samsung Galaxy S22",
       "description": "Nowoczesny smartfon z najlepszymi funkcjami i wydajnością",
       "id": 2,
-      "price": 2599.99,
-      "quantity": 10
+      "price": 2603.31,
+      "quantity": 1
     },
     {
-      "name": "Laptop Dell XPS 15",
+      "name": "Laptop Dell XPS 18",
       "description": "Wyjątkowo wydajny laptop z ekranem 15 cali i najnowszym procesorem",
       "id": 3,
-      "price": 3999.99,
-      "quantity": 3
+      "price": "3999",
+      "quantity": "11"
     },
     {
       "name": "Słuchawki bezprzewodowe Sony WH-1000XM4",
@@ -139,6 +132,13 @@
       "id": 20,
       "price": 399.99,
       "quantity": 9
+    },
+    {
+      "name": "M5 PRO",
+      "description": "elo",
+      "price": 22,
+      "quantity": 32,
+      "id": 21
     }
   ]
 }
